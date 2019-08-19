@@ -1,0 +1,15 @@
+h1{
+    font-size: 30px;
+    font-family: monospace;
+    margin-left: 100px;
+    margin-top: 100px;
+    
+}
+
+html{
+    background-image: url(background.png);
+}
+
+button{
+    margin-left: 100px;
+}
