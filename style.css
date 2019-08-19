@@ -13,3 +13,8 @@ html{
 button{
     margin-left: 100px;
 }
+
+a{
+    color:black;
+    text-decoration: none;
+}
