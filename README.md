@@ -1,4 +1,5 @@
-See a basic custom 404-error page [here](https://lalsdev.github.io/404-Page/)
+# 404 Error Page
+See my custom 404-error page [here](https://lalsdev.github.io/404-Page/)
 
 ## Tools
 - Canva
